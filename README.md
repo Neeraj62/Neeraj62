@@ -1,20 +1,9 @@
-## Hi there 👋
-
-
-**Neeraj62/Neeraj62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Done ✅
-Maine **LinkedIn profile link** add kar diya hai. Aap updated version direct use kar sakte ho 👇
-
----
 
 ## Hi there 👋
 
 I’m **Neeraj Kumar**
 
-🚀 **Frontend Developer** | React | JavaScript | Tailwind CSS
+🚀 **Frontend Developer** 
 
 * 🔭 I’m currently working on **frontend web projects using React & modern UI frameworks**
 * 🌱 I’m currently learning **Advanced React, API Integration & Performance Optimization**
@@ -26,12 +15,4 @@ I’m **Neeraj Kumar**
 * ⚡ Fun fact: **I love converting ideas into clean & responsive user interfaces 💻✨**
 
 ---
-
-Agar chaho to next step me:
-
-* 🛠️ **Skills badges/icons** add kar dein
-* 📈 **GitHub stats & top languages** section bana dein
-* ✨ Thoda aur **modern / eye-catching design** de dein
-
-Batao, kya upgrade chahiye 😄
 
