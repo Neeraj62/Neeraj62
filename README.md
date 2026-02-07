@@ -13,7 +13,7 @@ I’m **Neeraj Kumar**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I love Converting ideas into clean & Responsive User Interfaces 💻✨**
 
----
+--p
 
 <table align="left" width="100%" style="width: 100%; table-layout: fixed;">
   <tr>
