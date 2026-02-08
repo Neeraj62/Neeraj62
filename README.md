@@ -138,21 +138,3 @@ I’m **Neeraj Kumar**
       <a href="https://www.docker.com" target="_blank">
         <img src="https://skilli
         br
-
-        ## 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashukr321&theme=github_dark" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" />
-    </td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical&card_width=400" />
-    </td>
-  </tr> -->
-</table>
