@@ -11,7 +11,7 @@ I’m **Neeraj Kumar**
 * 💬 Ask me About **HTML, CSS, JavaScript, react, Tailwind CSS, git & GitHub**
 * 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/neerajkry)**
 * 😄 Pronouns: **He/Him**
-* ⚡ Fun fact: **I love Converting ideas into clean & Responsive User Interfaces 💻✨**
+* ⚡ Fun fact: **I love Converting ideas into clean & Responsive user Interfaces 💻✨**
 
 --p
 
