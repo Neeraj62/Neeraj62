@@ -139,6 +139,18 @@ I’m **Neeraj Kumar**
         <img src="https://skilli
         br
 
+        <td align="center" width="14%">
+  <a href="https://hoppscotch.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/hoppscotch/02AD86" width="40" alt="Hoppscotch" />
+  </a>
+  <br />Hoppscotch
+</td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+
+
 
 
 
