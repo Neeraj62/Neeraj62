@@ -2,7 +2,7 @@
 
 I’m **Neeraj Kumar**
 
-🚀 **Frontend Developer** 
+🚀 **Frontend Develope r** 
  
 * 🔭 I’m currently working on **frontend web proejct singin react & modernUI Frameworks **
 * 🌱 I’m Currently learning **Advanced reac, API  Integation  & Performance ptimization**
