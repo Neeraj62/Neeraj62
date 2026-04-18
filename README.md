@@ -48,17 +48,17 @@ I’m **Neeraj Kumar**
       </a>
       <br />Next.js
     </td>
-    <td align="center" width="14%">
+    <!-- <td align="center" width="14%">
       <a href="https://www.typescriptlang.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TS" />
       </a>
-      <br />TypeScript
+      <br />TypeScript -->
     </td>
-    <td align="center" width="14%">
+    <!-- <td align="center" width="14%">
       <a href="https://redux-toolkit.js.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" />
       </a>
-      <br />Redux
+      <br />Redux -->
     </td>
     <td align="center" width="14%">
       <a href="https://tailwindcss.com" target="_blank">
@@ -95,11 +95,11 @@ I’m **Neeraj Kumar**
       </a>
       <br />Node.js
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://expressjs.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" />
       </a>
-      <br />Express
+      <br />Express -->
     </td>
     <td align="center">
       <a href="https://www.mongodb.com" target="_blank">
@@ -113,25 +113,25 @@ I’m **Neeraj Kumar**
       </a>
       <br />MySQL
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://supabase.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" />
-      </a>
+      </a> -->
       <br />Supabase
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://firebase.google.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" />
       </a>
-      <br />Firebase
-    </td>
+      <br />Firebase -->
+    <!-- </td>
     <td align="center">
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="Postgres" />
       </a>
       <br />Postgres
     </td>
-  </tr>
+  </tr> -->
 
   <tr>
     <td align="center">
