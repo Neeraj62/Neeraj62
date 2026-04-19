@@ -5,7 +5,7 @@ I’m **Neeraj Kumar**
 🚀 **Frontend Developer** 
  
 * 🔭 I’m currently working on **frontend web proejct singin react & modern UI frameworks**
-* 🌱 I’m Currently learning **Advanced reac, API  integation & Performance p timization**
+* 🌱 I’m Currently learning **Advanced reac, API  integation & Performance ptimization**
 * 👯 I’m Looking to collaborate on **frontend pojects, Open-source contributions & UI/UX improvements**
 * 🤔 I’m Looking for help With **real-World frontend Challenges and Best ractices**
 * 💬 Ask me about **HTML, CSS, JavaScript, react, Tailwind CSS, git & GitHub**
