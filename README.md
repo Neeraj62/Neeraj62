@@ -9,7 +9,8 @@ I’m **Neeraj Kumar**
 * 👯 I’m Looking to collaborate on **frontend pojects, Open-source contributions &  UI/UX improvements**
 * 🤔 I’m Looking for help With **real-World frontend Challenges and  Best ractices**
 * 💬 Ask me about **HTML, CSS, JavaScript, react, Tailwind CSS, git &   GitHub**
-* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/neerajkryr)**
+* 📫 How to reach me: neeraj94305060@gmail.com
+  
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I love Converting ideas into clean & Responsive user Interfaces 💻✨**
 
