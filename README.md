@@ -2,7 +2,7 @@
 
 I’m **Neeraj Kumar**
 
-🚀 **Frontend Developer** 
+🚀 **Frontend Developer**  
      
 * 🔭 I’m currently working on * *frontend  web proejct. singeinreact  & moder UIframe  works**
 * 🌱 I’m Currently learning **Advanced reac, API  integation & Perform anceptimiz action**
