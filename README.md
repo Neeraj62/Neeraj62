@@ -6,7 +6,7 @@ I’m **Neeraj Kumar**
      
 * 🔭 I’m currently working on * *frontend  web proejct. singeinreact & moder  UIframe  works**
 * 🌱 I’m Currently learning **Advanced reac, API  integation & Perform anceptimiz action**
-* 👯 I’m Looking to collaborate  on **frontend pojects, Open-source contributions &  UI/UX improvements**
+* 👯 I’m Looking to collaborate  on **frontend pojec ts, Open-source contributions &  UI/UX improvements**
 * 🤔 I’m Looking for help With **real-World frontend Challenges and  Best ractices**
 * 💬 Ask me about **HTML, CSS, JavaScript, react, Tailwind CSS, git &   GitHub**
 * 📫 How to reach me: neeraj94305060@gmail.com
