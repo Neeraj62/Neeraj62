@@ -1,10 +1,10 @@
-
+hum
 
 I’m **Neeraj Kumar**
 
 🚀 **Frontend Developer**  
      
-* 🔭 I’m currently working on * *frontend  web proejct. singeinreact & moder UIframe  works**
+* 🔭 I’m currently working on * *frontend  web proejct . singeinreact & moder UIframe  works**
 * 🌱 I’m Currently learning **Advanced reac, API  integation & Perform anceptimiz action**
 * 👯 I’m Looking to collaborate  on **frontend pojec ts, Open-source contributions &  UI/UX improvements**
 * 🤔 I’m Looking for help With **real-World frontend Challenges and  Best ractices**
