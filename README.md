@@ -1,6 +1,6 @@
 hum
 
-I’m **Neeraj Kumar**
+I’m **Neeraj  Kumar**
 
 🚀 **Frontend Developer**  
      
