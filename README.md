@@ -11,7 +11,7 @@ I’m **Neeraj  Kumar**
 * 💬 Ask me about **HTML, CSS, JavaScript, react, Tailwind CSS, git & GitHub**
 * 📫 How to reach me: neeraj94305060@gmail.com
    
-* 😄 Pronouns: **He/Him**
+* 😄 Pronouns: **He/Him** 
 * ⚡ Fun fact: **I love Converting ideas into clean & Responsive user Interfaces 💻✨**
 
 --p
