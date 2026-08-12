@@ -1,4 +1,3 @@
-hum
 
 I’m **Neeraj  Kumar**
 
