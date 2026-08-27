@@ -20,7 +20,7 @@ Developer**
   <tr>
      <td align="center" width="14%">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html " width="40" alt="HTML5" />
   </a>
   <br />HTML5
 </td>
