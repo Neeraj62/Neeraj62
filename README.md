@@ -16,7 +16,7 @@ Developer**
 
 --p
 
-<table align="left" width="100%" style="width: 100%; table-layout: fixed;">
+<table align="left" width="100%" style="width: 100%; table-layout: fix ed;">
   <tr>
      <td align="center" width="14%">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
