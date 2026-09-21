@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Neeraj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Modern+UI+Enthusiast;Turning+Ideas+into+Clean+Interfaces+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Modern+UI+Enthusiast;Turning+Ideas+into+Clean+Interfaces+%E2%9C%A8#gh-dark-mode-only" alt="Typing SVG" width="650" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1F2328&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+Modern+UI+Enthusiast;Turning+Ideas+into+Clean+Interfaces+%E2%9C%A8#gh-light-mode-only" alt="Typing SVG" width="650" />
 </a>
 
 <p>
@@ -41,7 +42,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mui,sass,nodejs,mongodb,mysql,git,github&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mui,sass,nodejs,mongodb,mysql,git,github&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mui,sass,nodejs,mongodb,mysql,git,github&theme=light#gh-light-mode-only" alt="Tech Stack" />
 
 <br/><br/>
 
