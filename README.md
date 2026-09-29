@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=200&secti on=header&text=Neeraj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
