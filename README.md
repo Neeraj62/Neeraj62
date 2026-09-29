@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **frontend web projects using React and modern UI frameworks**
+- 🔭 Currently working on **frontend web projects  using React and modern UI frameworks**
 - 🌱 Currently learning **advanced React, API integration & performance optimization**
 - 👯 Looking to collaborate on **frontend projects, open-source contributions & UI/UX improvements**
 - 🤔 Looking for help with **real-world frontend challenges and best practices**
