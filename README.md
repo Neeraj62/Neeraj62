@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **frontend web projects using React nd modern UI frameworks**
-- 🌱 Currently learning **advanced React, API integration & performance optimization**
+- 🌱 Currently learning **advanced React, API integration & performance.  optimization**
 - 👯 Looking to collaborate on **frontend projects, open-source contributions & UI/UX improvements**
 - 🤔 Looking for help with **real-world frontend challenges and best practices**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, Git & GitHub**
