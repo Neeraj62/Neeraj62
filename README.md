@@ -33,7 +33,7 @@
 - 🤔 Looking for help with **real-world frontend challenges and best practices**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, Git & GitHub**
 - 📫 Reach me at **[neeraj94305060@gmail.com](mailto:neeraj94305060@gmail.com)**
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: **I love converting ideas into clean & responsive user interfaces** 💻✨
 
 <br/>
